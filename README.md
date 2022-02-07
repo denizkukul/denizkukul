@@ -22,6 +22,6 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="30" height="30"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denizkukul&show_icons=true&theme=radical&locale=en&layout=compact" alt="denizkukul" width="50%" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denizkukul&show_icons=true&theme=radical&locale=en&layout=compact" alt="denizkukul" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denizkukul&show_icons=true&theme=dark&locale=en" alt="denizkukul" width="50%" /></p>
